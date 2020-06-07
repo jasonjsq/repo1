@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>jineng1 (1).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{796,2},{298,209}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{298,209}}</string>
+                <key>sourceSize</key>
+                <string>{298,209}</string>
+            </dict>
+            <key>jineng1 (2).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,556},{294,246}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{294,246}}</string>
+                <key>sourceSize</key>
+                <string>{294,246}</string>
+            </dict>
+            <key>jineng1 (3).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{434,268},{342,276}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{342,276}}</string>
+                <key>sourceSize</key>
+                <string>{342,276}</string>
+            </dict>
+            <key>jineng1 (4).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{430,294}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{430,294}}</string>
+                <key>sourceSize</key>
+                <string>{430,294}</string>
+            </dict>
+            <key>jineng1 (5).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,298},{332,256}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{332,256}}</string>
+                <key>sourceSize</key>
+                <string>{332,256}</string>
+            </dict>
+            <key>jineng1 (6).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{434,2},{360,264}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{360,264}}</string>
+                <key>sourceSize</key>
+                <string>{360,264}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>jineng1.png</string>
+            <key>size</key>
+            <string>{1024,1024}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:74c31325709171226972cc4845a41cf7$</string>
+            <key>textureFileName</key>
+            <string>jineng1.png</string>
+        </dict>
+    </dict>
+</plist>
