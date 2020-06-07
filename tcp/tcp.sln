@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tcp", "tcp\tcp.vcxproj", "{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client", "client\client.vcxproj", "{6F9187B9-BA24-42B3-9599-40B302C17C7A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "select服务器", "select服务器\select服务器.vcxproj", "{CC57CB80-B70B-4EDE-81F3-0A9519596419}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eventselect", "eventselect\eventselect.vcxproj", "{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}.Debug|Win32.Build.0 = Debug|Win32
+		{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}.Debug|x64.ActiveCfg = Debug|Win32
+		{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}.Release|Win32.ActiveCfg = Release|Win32
+		{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}.Release|Win32.Build.0 = Release|Win32
+		{5087FE04-A7FB-4D1F-BCF3-10107FDA0B3A}.Release|x64.ActiveCfg = Release|Win32
+		{6F9187B9-BA24-42B3-9599-40B302C17C7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F9187B9-BA24-42B3-9599-40B302C17C7A}.Debug|Win32.Build.0 = Debug|Win32
+		{6F9187B9-BA24-42B3-9599-40B302C17C7A}.Debug|x64.ActiveCfg = Debug|Win32
+		{6F9187B9-BA24-42B3-9599-40B302C17C7A}.Release|Win32.ActiveCfg = Release|Win32
+		{6F9187B9-BA24-42B3-9599-40B302C17C7A}.Release|Win32.Build.0 = Release|Win32
+		{6F9187B9-BA24-42B3-9599-40B302C17C7A}.Release|x64.ActiveCfg = Release|Win32
+		{CC57CB80-B70B-4EDE-81F3-0A9519596419}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CC57CB80-B70B-4EDE-81F3-0A9519596419}.Debug|Win32.Build.0 = Debug|Win32
+		{CC57CB80-B70B-4EDE-81F3-0A9519596419}.Debug|x64.ActiveCfg = Debug|Win32
+		{CC57CB80-B70B-4EDE-81F3-0A9519596419}.Release|Win32.ActiveCfg = Release|Win32
+		{CC57CB80-B70B-4EDE-81F3-0A9519596419}.Release|Win32.Build.0 = Release|Win32
+		{CC57CB80-B70B-4EDE-81F3-0A9519596419}.Release|x64.ActiveCfg = Release|Win32
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Debug|Win32.Build.0 = Debug|Win32
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Debug|x64.ActiveCfg = Debug|x64
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Debug|x64.Build.0 = Debug|x64
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Release|Win32.ActiveCfg = Release|Win32
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Release|Win32.Build.0 = Release|Win32
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Release|x64.ActiveCfg = Debug|x64
+		{DF94DAEC-CFBF-4F64-A2B1-EFDDABE44701}.Release|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
