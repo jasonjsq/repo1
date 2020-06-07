@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/7/24 9:47:09。
+     1>项目“E:\cocos\NewCocosProject1\proj.win32\NewCocosProject1.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreLinkEvent:
+         if not exist "E:\cocos\NewCocosProject1\proj.win32\Release.win32\" mkdir "E:\cocos\NewCocosProject1\proj.win32\Release.win32\"
+         xcopy /Y /Q "C:\Cocos\Cocos2d-x\cocos2d-x-3.10\prebuilt\win32\*.*" "E:\cocos\NewCocosProject1\proj.win32\Release.win32\"
+         
+         :VCEnd
+         复制了 60 个文件
+       Link:
+         NewCocosProject1.vcxproj -> E:\cocos\NewCocosProject1\proj.win32\Release.win32\NewCocosProject1.exe
+       CustomBuildStep:
+         if not exist "E:\cocos\NewCocosProject1\proj.win32\Release.win32\" mkdir "E:\cocos\NewCocosProject1\proj.win32\Release.win32\"
+         xcopy "E:\cocos\NewCocosProject1\proj.win32\..\Resources" "E:\cocos\NewCocosProject1\proj.win32\Release.win32\" /D /E /I /F /Y
+               
+         :VCEnd
+         复制了 0 个文件
+     1>已完成生成项目“E:\cocos\NewCocosProject1\proj.win32\NewCocosProject1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.88

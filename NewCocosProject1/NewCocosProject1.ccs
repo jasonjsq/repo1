@@ -1,0 +1,46 @@
+<Solution>
+  <PropertyGroup Name="NewCocosProject1" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="boss_map.png" />
+        <Image Name="button1.png" />
+        <Image Name="button2.png" />
+        <Image Name="dasd.png" />
+        <Image Name="dddd.png" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="hero (2).png" />
+        <Image Name="hero.jpg" />
+        <Image Name="jg.png" />
+        <Image Name="jimm.jpg" />
+        <Image Name="js.jpg" />
+        <Image Name="loding.png" />
+        <Image Name="mai.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="map (1).png" />
+        <Image Name="map (2).png" />
+        <Image Name="map (3).png" />
+        <Image Name="map.png" />
+        <Image Name="music.png" />
+        <Image Name="music2.png" />
+        <Image Name="nd (1).png" />
+        <Image Name="nd (2).png" />
+        <Image Name="nd (3).png" />
+        <Image Name="over.png" />
+        <Image Name="overmap.png" />
+        <Image Name="queding.png" />
+        <Image Name="queding1.png" />
+        <Project Name="Scene.csd" Type="Scene" />
+        <Project Name="Scene1.csd" Type="Scene" />
+        <Project Name="Scene2.csd" Type="Scene" />
+        <Image Name="shur.png" />
+        <Image Name="shuxing (1).jpg" />
+        <Image Name="shuxing (2).jpg" />
+        <Image Name="shuxing (3).jpg" />
+        <Image Name="ts.jpg" />
+        <Image Name="v13.png" />
+        <Image Name="zhuce.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
